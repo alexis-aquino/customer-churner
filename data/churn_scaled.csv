@@ -1,0 +1,11 @@
+tenure,monthly_charges,churn,contract_One year,contract_Two year,payment_Bank transfer,payment_Credit card
+0.0,0.0,1,False,False,False,True
+0.6470588235294117,0.3882521489971346,0,True,False,False,False
+0.0196078431372549,0.34383954154727786,1,False,False,False,False
+0.8627450980392156,0.1783667621776504,0,False,True,False,True
+0.13725490196078433,0.585243553008596,1,False,False,True,False
+0.411764705882353,1.0,0,True,False,True,False
+0.1764705882352941,0.8488538681948423,1,False,False,False,False
+0.5294117647058824,0.2879656160458453,0,True,False,True,False
+0.9999999999999999,0.5651862464183379,0,False,True,False,True
+0.058823529411764705,0.646131805157593,1,False,False,False,False
