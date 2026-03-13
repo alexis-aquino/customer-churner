@@ -1,0 +1,11 @@
+customerid,tenure,monthly_charges,total_charges,contract,payment_method,churn
+1,1,29.85,29.85,Month-to-month,Credit card,Yes
+2,34,56.95,1936.3,One year,Electronic check,No
+3,2,53.85,108.15,Month-to-month,Electronic check,Yes
+4,45,42.3,1845.6,Two year,Credit card,No
+5,8,70.7,565.6,Month-to-month,Bank transfer,Yes
+6,22,99.65,2192.3,One year,Bank transfer,No
+7,10,89.1,854.4,Month-to-month,Electronic check,Yes
+8,28,49.95,1398.6,One year,Bank transfer,No
+9,52,69.3,3603.1,Two year,Credit card,No
+10,4,74.95,307.1,Month-to-month,Electronic check,Yes

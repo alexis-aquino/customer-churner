@@ -1,0 +1,11 @@
+tenure,monthly_charges,churn,contract_One year,contract_Two year,payment_Bank transfer,payment_Credit card
+1,29.85,1,False,False,False,True
+34,56.95,0,True,False,False,False
+2,53.85,1,False,False,False,False
+45,42.3,0,False,True,False,True
+8,70.7,1,False,False,True,False
+22,99.65,0,True,False,True,False
+10,89.1,1,False,False,False,False
+28,49.95,0,True,False,True,False
+52,69.3,0,False,True,False,True
+4,74.95,1,False,False,False,False
