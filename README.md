@@ -30,8 +30,8 @@ customer-churner/
 
 ## Progress
 - ✅ Week 1: Data exploration & analysis
-- ⏳ Week 2: Feature engineering
-- ⏳ Week 3: Model building
+- ✅Week 2: Feature engineering
+- ✅ Week 3: Model building
 - ⏳ Week 4: Evaluation & deployment
 
 ## Contact
