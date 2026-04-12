@@ -33,26 +33,28 @@ interactive dashboard.
 ---
 
 ## Project Structure
+
+```
 customer-churner/
 ├── data/
-│   ├── churn.csv                  # Original Kaggle dataset
-│   ├── churn_cleaned.csv          # After cleaning
-│   ├── churn_encoded.csv          # After categorical encoding
-│   └── churn_scaled.csv           # Final ML-ready dataset
+│   ├── churn.csv
+│   ├── churn_cleaned.csv
+│   ├── churn_encoded.csv
+│   └── churn_scaled.csv
 ├── models/
-│   ├── final_xgboost_model.pkl    # Trained model
-│   ├── feature_list.pkl           # Features the model expects
-│   └── optimal_threshold.pkl      # Decision threshold (0.30)
+│   ├── final_xgboost_model.pkl
+│   ├── feature_list.pkl
+│   └── optimal_threshold.pkl
 ├── notebooks/
-│   ├── 01_load_data.ipynb         # Week 1: EDA and analysis
-│   ├── 02_modeling.ipynb          # Week 2-3: Modeling and tuning
-│   └── 03_evaluation.ipynb        # Week 4: Final evaluation report
+│   ├── 01_load_data.ipynb
+│   ├── 02_modeling.ipynb
+│   └── 03_evaluation.ipynb
 ├── reports/
 │   └── final_evaluation_report.png
 ├── src/
-│   └── app.py                     # Streamlit dashboard
+│   └── app.py
 └── requirements.txt
-
+```
 ---
 
 ## Model Pipeline
